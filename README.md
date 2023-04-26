@@ -1,5 +1,5 @@
-# ClothingAppPWA
-PWA Women's Clothing Application using ReactJS, TypeScript, Material-UI, Redux and Strapi
+# Women's Clothing App
+Women's Clothing Application using ReactJS, TypeScript, Material-UI, Redux and Strapi
 
 
 <img width="1436" alt="Screen Shot 2023-04-26 at 17 39 57" src="https://user-images.githubusercontent.com/51478477/234597093-aae5e16e-1d71-4bbc-ae5a-6ff7bf41c0a8.png">
@@ -21,5 +21,5 @@ PWA Women's Clothing Application using ReactJS, TypeScript, Material-UI, Redux a
 
 
 ## Log in to the Strapi account
-Email: *womens.clothing@gmail.com*
-Password: *Strapi123*
+- Email: *womens.clothing@gmail.com*
+- Password: *Strapi123*
