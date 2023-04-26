@@ -9,17 +9,17 @@ PWA Women's Clothing Application using ReactJS, TypeScript, Material-UI, Redux a
 # Instructions
 
 ## Run Client
-- *cd client
-- *npm install
-- *npm run start
+- *cd client*
+- *npm install*
+- *npm run start*
 
 
 ## Run Server
-- *cd server* (*cd ../server* if you are currently in the client folder)
-- *npm install
-- *npm run develop
+- *cd server* (or *cd ../server* if you are currently in the client folder)
+- *npm install*
+- *npm run develop*
 
 
 ## Log in to the Strapi account
-Email: womens.clothing@gmail.com
-Password: Strapi123
+Email: *womens.clothing@gmail.com*
+Password: *Strapi123*
