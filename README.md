@@ -6,7 +6,7 @@ PWA Women's Clothing Application using ReactJS, TypeScript, Material-UI, Redux a
 <img width="1434" alt="Screen Shot 2023-04-26 at 17 41 34" src="https://user-images.githubusercontent.com/51478477/234597138-ce5c9be2-3f47-47f0-b407-916a9f56c67d.png">
 
 
-Log in to the Strapi account
+## Log in to the Strapi account
 
 Email: womens.clothing@gmail.com
 Password: Strapi123
