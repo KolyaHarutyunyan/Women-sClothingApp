@@ -7,14 +7,14 @@ interface ILogoProps extends BoxProps {
 }
 
 const Logo: React.FC<ILogoProps> = ({ onClickLogo, ...props }) => (
-		<Box
-			onClick={onClickLogo}
-			sx={{ "&:hover": { cursor: "pointer" } }}
-			color={shades.secondary[500]}
-			{...props}
-		>
-			WOMEN&apos;S CLOTHING
-		</Box>
-	);
+	<Box
+		onClick={onClickLogo}
+		sx={{ "&:hover": { cursor: "pointer" } }}
+		color={shades.secondary[500]}
+		{...props}
+	>
+		WOMEN&apos;S CLOTHING
+	</Box>
+);
 
 export default Logo;
